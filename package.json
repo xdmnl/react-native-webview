@@ -24,7 +24,8 @@
   },
   "peerDependencies": {
     "react": "^16.0",
-    "react-native": ">=0.60 <0.62"
+    "react-native": ">=0.60 <0.62",
+    "react-native-web": "^0.11"
   },
   "dependencies": {
     "escape-string-regexp": "2.0.0",
@@ -52,6 +53,7 @@
     "metro-react-native-babel-preset": "0.53.1",
     "react": "16.8.3",
     "react-native": "0.60.5",
+    "react-native-web": "^0.11.7",
     "semantic-release": "15.13.24",
     "typescript": "3.6.2"
   },
