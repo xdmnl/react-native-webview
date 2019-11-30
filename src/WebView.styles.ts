@@ -38,6 +38,7 @@ const styles = StyleSheet.create<Styles>({
   },
   webView: {
     backgroundColor: '#ffffff',
+    borderWidth: 0
   },
 });
 

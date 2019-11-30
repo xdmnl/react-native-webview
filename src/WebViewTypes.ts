@@ -591,6 +591,8 @@ export interface AndroidWebViewProps extends WebViewSharedProps {
   allowsFullscreenVideo?: boolean;
 }
 
+export type WebWebViewProps = WebViewSharedProps;
+
 export interface WebViewSharedProps extends ViewProps {
   /**
    * Loads static html or a uri (with optional headers) in the WebView.
